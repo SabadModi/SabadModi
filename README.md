@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabadmodi&show_icons=true&locale=en" alt="sabadmodi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabadmodi&" alt="sabadmodi" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
