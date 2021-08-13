@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sabad</h1>
+<h1 align="center">Hi 👋, I'm Sabad Modi</h1>
 <h3 align="center">A passionate High Schooler who loves Machine Learning and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabadmodi&label=Profile%20views&color=0e75b6&style=flat" alt="sabadmodi" /> </p>
