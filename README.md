@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/sabadmodi" target="_blank"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=twitter&style=for-the-badge" alt="sabadmodi" /></a> </p>
 <p align="left"> <a href="https://github.com/SabadModi" target="_blank"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=github&style=for-the-badge" alt="sabadmodi" /></a> </p>
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/SabadModi/SabadModi/blob/main/code.gif" width="408" height="318" />
 
 **About Me:**
 - 🔭 I’m currently working on [Ans4Skl](www.github.com/SabadModi/Ans4Skl)
