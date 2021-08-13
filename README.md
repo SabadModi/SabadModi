@@ -19,6 +19,8 @@
 
 - 💬 Ask me about **Python, UI, Machine Learning**
 
+- 👯 I’m looking to collaborate on **any project**
+
 - 📫 How to reach me via email: **sabadmodi@gmail.com**
 
 - 📫 How to reach me via discord: **Sabad#3747**
