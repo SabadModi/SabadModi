@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabadmodi&label=Profile%20views&color=0e75b6&style=flat" alt="sabadmodi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabadmodi" alt="sabadmodi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabadmodi&theme=dracula" alt="sabadmodi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sabadmodi" target="_blank"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=twitter&style=for-the-badge" alt="sabadmodi" /></a> </p>
-<p align="left"> <a href="https://github.com/SabadModi" target="_blank"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=github&style=for-the-badge" alt="sabadmodi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sabadmodi" target="_blank"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=twitter&style=for-the-badge&theme=dracula" alt="sabadmodi" /></a> </p>
+<p align="left"> <a href="https://github.com/SabadModi" target="_blank"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=github&style=for-the-badge&theme=dracula" alt="sabadmodi" /></a> </p>
 
 <img align="right" alt="GIF" src="https://github.com/SabadModi/SabadModi/blob/main/code.gif" width="408" height="318" />
 
