@@ -36,4 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabadmodi&" alt="sabadmodi" /></p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
