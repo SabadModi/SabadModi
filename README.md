@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabadmodi&theme=dracula" alt="sabadmodi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sabadmodi" target="_blank"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=twitter&style=for-the-badge&theme=dracula" alt="sabadmodi" /></a> </p>
+<p align="left"> <a href="https://instagram.com/sabad.modi" target="blank_"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=instagram&style=for-the-badge&theme=dracula" alt="sabadmodi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sabadmodi" target="blank_"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=twitter&style=for-the-badge&theme=dracula" alt="sabadmodi" /></a> </p>
 <p align="left"> <a href="https://github.com/SabadModi" target="_blank"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=github&style=for-the-badge&theme=dracula" alt="sabadmodi" /></a> </p>
 
 <img align="right" alt="GIF" src="https://github.com/SabadModi/SabadModi/blob/main/code.gif" width="408" height="318" />
@@ -43,10 +44,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabadmodi&theme=dracula" alt="sabadmodi" /></p>
 
 <br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
