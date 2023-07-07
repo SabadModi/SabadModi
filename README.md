@@ -6,19 +6,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabadmodi&theme=dracula" alt="sabadmodi" /></a> </p>
 
 <p align="left"> <a href="https://instagram.com/sabad.modi" target="blank_"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=instagram&style=for-the-badge&theme=dracula" alt="sabadmodi" /></a> </p>
-<p align="left"> <a href="https://twitter.com/sabadmodi" target="blank_"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=twitter&style=for-the-badge&theme=dracula" alt="sabadmodi" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/sabadmodi" target="blank_"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=twitter&style=for-the-badge&theme=dracula" alt="sabadmodi" /></a> </p> -->
 <p align="left"> <a href="https://github.com/SabadModi" target="_blank"><img src="https://img.shields.io/twitter/follow/sabadmodi?logo=github&style=for-the-badge&theme=dracula" alt="sabadmodi" /></a> </p>
 
 <img align="right" alt="GIF" src="https://github.com/SabadModi/SabadModi/blob/main/code.gif" width="408" height="318" />
 
 **About Me:**
-- 🔭 I’m currently working on [DisasterResponse]()
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning **Reinforcement Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SabadModi](https://github.com/SabadModi)
 
-- 💬 Ask me about **Python, UI, Machine Learning**
+- 💬 Ask me about **Python, Machine Learning**
 
 - 👯 I’m looking to collaborate on **any project**
 
